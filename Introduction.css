@@ -1,0 +1,26 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(217, 156, 99) ;
+    text-align: center;
+    margin: 0;
+}
+
+ul{
+    border-radius: 5px;
+    padding: 20px;
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+a{
+
+    color:rgb(0, 0, 0) ;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: black;
+}
